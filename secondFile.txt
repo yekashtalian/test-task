@@ -1,5 +1,5 @@
-git1 second file text
-git1 second file text
+git1 second file text (edited one more time)
+git1 second file text (edited one more time)
 git1 second file text
 git1 second file text
 git1 second file text
