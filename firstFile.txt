@@ -1,7 +1,7 @@
-git1 first file text
-git1 first file text
-git1 first file text
-git1 first file text
+git1 first file text updated!
+git1 first file text updated!
+git1 first file text updated another 1
+git1 first file text updated another 1
 git1 first file text
 git1 first file text
 git1 first file text
